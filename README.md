@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dethmourne
+- 👋 Hi, I’m @WrayOfSunshine
 - 👀 I’m interested in task automation, karaoke, and lo-fi.
 - 🌱 I’m currently learning how to utilize Octopus and Docker.
 - 💞️ I’m looking to collaborate on anything that could use PowerShell scripting.
